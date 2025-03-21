@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--📌 Sobre mim
+📌 Sobre mim
 👨‍💻 Sou um estudante apaixonado por tecnologia, focado em aprender desenvolvimento web e expandir meus conhecimentos em diversas áreas da programação. Meu objetivo é tecnologias dominar frontend e backend para construir aplicações completas.
 
 📌 Status atual
@@ -11,16 +11,8 @@
 📌 6. Outras Áreas de Interesse
 🔹 Inteligência Artificial
 🔹 cybersegurança
+## 🌟 Minhas Estatísticas no GitHub:
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)
+
 **JoaoCarmelio/JoaoCarmelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
