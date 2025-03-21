@@ -12,7 +12,7 @@
 🔹 Inteligência Artificial
 🔹 cybersegurança
 ## 🌟 Minhas Estatísticas no GitHub:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoãoCarmélio&show_icons=true&theme=dracula)
 
 **JoaoCarmelio/JoaoCarmelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
