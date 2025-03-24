@@ -5,10 +5,9 @@
 
 📌 Status atual
 🔹 Estudando JavaScript, PHP, MySQL, HTML, CSS, Bootstrap
-🔹 Aprendendo Tailwind CSS e frameworks modernos
 🔹 Melhorando a lógica de programação com desafios práticos
 
-📌 6. Outras Áreas de Interesse
+📌 Outras Áreas de Interesse
 🔹 Inteligência Artificial
 🔹 cybersegurança
 ## 🌟 Minhas Estatísticas no GitHub:
