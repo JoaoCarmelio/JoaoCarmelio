@@ -1,7 +1,8 @@
 ## PRINT("OLÁ 👋");
 
 📌 Sobre mim
-👨‍💻 Sou um estudante apaixonado por tecnologia, focado em aprender desenvolvimento web e expandir meus conhecimentos em diversas áreas da programação. Meu objetivo é tecnologias dominar frontend e backend para construir aplicações completas.
+👨‍💻 Sou um estudante apaixonado por tecnologia, focado em aprender desenvolvimento web e expandir meus conhecimentos em diversas áreas da programação. Meu objetivo é dominar 
+ tecnologias frontend e backend para construir aplicações completas.
 
 📌 Status atual
 🔹 Estudando JavaScript, PHP, MySQL, HTML, CSS, Bootstrap
