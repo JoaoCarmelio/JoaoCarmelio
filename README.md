@@ -24,7 +24,3 @@
 ![Banco de dados -  MySql](https://img.shields.io/badge/Mysql-3776AB?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-
-
-**JoaoCarmelio/JoaoCarmelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
