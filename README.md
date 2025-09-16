@@ -5,12 +5,12 @@
  tecnologias frontend e backend para construir aplicações completas.
 
 📌 Status atual
-🔹 Estudando JavaScript, PHP, MySQL, HTML, CSS, Bootstrap
+🔹 Estudando JavaScript, Python, MySQL, HTML, CSS, Bootstrap
 🔹 Melhorando a lógica de programação com desafios práticos
 
 📌 Outras Áreas de Interesse
 🔹 Inteligência Artificial
-🔹 cybersegurança
+🔹 Suporte Ti
 ## 🌟 Minhas Estatísticas no GitHub:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoaoCarmelio&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarmelio&layout=compact&theme=dracula)
